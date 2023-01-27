@@ -9,3 +9,4 @@ ___
 ---
 
 - [x] 001. [Two Sum](https://github.com/Benkei-Sa/LeetCode-task/tree/main/001.%20Two%20Sum) **`Go`**
+- [x] 002. [Palindrome Number](https://github.com/Benkei-Sa/LeetCode-task/tree/main/002.%20Palindrome%20Number) **`Go`**
