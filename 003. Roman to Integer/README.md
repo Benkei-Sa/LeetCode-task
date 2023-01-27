@@ -5,7 +5,7 @@ ___
 ___
 Roman numerals are represented by seven different symbols: , , , , , and .`I` `V` `X` `L` `C` `D` `M`
 
-* **Symbol = Value**
+**Symbol = Value**
 * `I`   =   1
 * `V`   =   5
 * `X`   =   10
